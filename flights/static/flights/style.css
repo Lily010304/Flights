@@ -1,0 +1,21 @@
+body {
+	background-color : burlywood;
+}
+
+h2 {
+	
+	font-family : serif;
+	font-size : 25px;
+	text-align : left;
+	color : black;
+	font-weight : bold;
+}
+li {
+	color : indigo;
+	font-size : 20px;
+	font-family : serif;
+}
+
+a {
+	font-size : 25px;
+}
